@@ -8,7 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\KodikUploader\KodikDownloader.csproj" />
+    <ProjectReference Include="..\KodikDownloader\KodikDownloader.csproj" />
   </ItemGroup>
 
   <ItemGroup>
