@@ -6,6 +6,12 @@
     <Nullable>enable</Nullable>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
     <Title>KodikDownloader</Title>
+    <Authors>kamaksimka</Authors>
+    <Description>Video downloader from Kodik player</Description>
+    <Copyright>MIT License</Copyright>
+    <RepositoryUrl>https://github.com/KaMaksimKa/KodikDownloader</RepositoryUrl>
+    <PackageTags>Anime, Kodik, AnimeGo</PackageTags>
+	<PackageLicenseExpression>MIT</PackageLicenseExpression>
   </PropertyGroup>
 
   <ItemGroup>
