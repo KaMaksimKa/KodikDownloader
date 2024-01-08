@@ -1,8 +1,6 @@
-﻿
+﻿using System.Text;
 
-using System.Text;
-
-namespace KodikUploader.Utils
+namespace KodikDownloader.Utils
 {
     public static class StringUtils
     {
